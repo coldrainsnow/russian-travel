@@ -1,0 +1,14 @@
+.footer {
+  margin-top: 64px;
+  padding-left: 16px;
+  display: flex;
+  flex-direction: column;  
+}
+
+@media screen and (min-width: 768px) {
+  .footer {
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 16px 24px;
+  }
+}
