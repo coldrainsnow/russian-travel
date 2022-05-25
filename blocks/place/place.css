@@ -15,6 +15,7 @@
         grid-template-rows: auto auto;
         grid-auto-flow: column;
         width: 720px;
+        gap: 48px 28px;
     }
 }
 

@@ -1,5 +1,12 @@
 .place__paragraph-container {
     display: flex;
     flex-direction: column;
-/*     padding: 0 16px;
- */}
+    gap: 25px;
+    margin: 32px 16px 0;
+}
+
+@media screen and (min-width: 768px) {
+    .place__paragraph-container {
+        margin: 0;
+    }
+} 

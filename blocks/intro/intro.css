@@ -4,6 +4,7 @@
   flex-direction: column;
   align-items: flex-start;
   margin: 64px auto 0;
+  /* box-sizing: border-box; */
 }
 
 @media screen and (min-width: 768px) {
@@ -19,7 +20,6 @@
     .intro {
       max-width: 690px;
       padding-left: 48px;
-      box-sizing: border-box;
     }
 }
 
