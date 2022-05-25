@@ -1,6 +1,6 @@
 .page {
     background-color: #2A2C2F;
     font-family: 'Inter', sans-serif;
+    text-rendering: optimizeLegibility;
     color: white;
-    box-sizing: border-box;
 }

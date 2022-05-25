@@ -6,27 +6,13 @@
   text-align: center;
   margin: 0 auto;
   text-rendering: optimizeLegibility;
-/*   padding-left: 16px;
-  padding-right: 16px; */
 }
 
 @media screen and (min-width: 768px) {
   .lead__title {
     font-size: 96px;
     line-height: 100px;
-    width: 720px;
+    max-width: 720px;
+    width: 100%;
   }
 }
-
-/* @media screen and (min-width: 1024px) {
-  .lead__title {
-    margin: 0 auto;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .lead__title {
-    padding: 0 280px;
-  }
-}
- */

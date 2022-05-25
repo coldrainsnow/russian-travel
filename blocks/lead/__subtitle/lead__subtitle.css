@@ -13,7 +13,8 @@
     line-height: 36px;
     margin-top: 32px;
     display: block;
-    width: 640px;
+    max-width: 640px;
+    width: 100%;
   }
 }
 
