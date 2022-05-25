@@ -1,8 +1,7 @@
 .intro__list {
   margin: 0;
-  padding-top: 34px;
   list-style: none;
-  padding: 0;
+  padding: 34px 0 0;
   font-size: 12px;
   line-height: 18px;
 }
