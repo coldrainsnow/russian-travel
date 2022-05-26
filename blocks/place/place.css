@@ -9,7 +9,7 @@
     .place {
         padding-left: 24px;
         padding-top: 64px;
-        padding-bottom: 72px; 
+        padding-bottom: 72px;
         grid-template-columns: 9fr 10fr;
         grid-template-rows: auto auto;
         grid-auto-flow: column;
