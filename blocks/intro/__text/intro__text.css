@@ -5,3 +5,18 @@
   line-height: 163%;
   margin: 40px 0 0;
 }
+
+@media screen and (min-width: 768px) {
+  .intro__text {
+    display: block;
+    max-width: 720px;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .intro__text {
+    max-width: 690px;
+    width: 100%;
+  }
+}
