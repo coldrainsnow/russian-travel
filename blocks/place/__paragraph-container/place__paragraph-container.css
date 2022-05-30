@@ -10,8 +10,3 @@
         margin: 0;
     }
 } 
-@media screen and (min-width: 1280px) {
-    .place__paragraph-container {
-        padding-top: 8px;
-    }
-}
