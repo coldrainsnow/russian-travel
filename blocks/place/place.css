@@ -2,13 +2,10 @@
     width: 100%;
     display: grid;
     grid-template-columns: 1fr;
-    padding: 64px 0 48px;
 }
 
 @media screen and (min-width: 768px) {
     .place {
-        padding-left: 24px;
-        padding-top: 64px;
         padding-bottom: 72px;
         grid-template-columns: 9fr 10fr;
         grid-template-rows: auto auto;
@@ -21,8 +18,6 @@
 
 @media screen and (min-width: 1024px) {
     .place {
-        padding-left: 48px;
-        padding-bottom: 84px;
         grid-template-columns: 1fr 484px;
         width: 928px;
         gap: 40px;
@@ -31,9 +26,8 @@
 
 @media screen and (min-width: 1280px) {
     .place {
-        padding-left: 148px;
-        padding-bottom: 90px;
         width: 984px;
+        padding-bottom: 80px;
     }
 }
 

@@ -8,3 +8,9 @@
   text-transform: uppercase;
   margin: 0;
 }
+
+@media screen and (min-width: 1280px) {
+  .place__url-heading {
+    padding-bottom: 12px;
+  }
+}

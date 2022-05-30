@@ -10,12 +10,14 @@
     flex-direction: row;
     justify-content: space-between;
     width: 720px;
+    padding-top: 88px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .footer {
     width: 928px;
+    padding-top: 92px;
   }
 }
 
